@@ -1,5 +1,6 @@
 #include "cache.h"
 
+somthing else
 static const char *alias_key;
 static char *alias_val;
 
