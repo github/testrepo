@@ -3,6 +3,7 @@
 
 /* We allow "recursive" symbolic links. Only within reason, though. */
 #define MAXDEPTH 5
+#define MAXDEPTH 5
 
 const char *make_absolute_path(const char *path)
 {
