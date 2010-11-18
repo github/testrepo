@@ -106,3 +106,6 @@ const char *make_nonrelative_path(const char *path)
 	}
 	return buf;
 }
+
+# schacon@gmail.com
+
