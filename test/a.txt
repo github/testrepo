@@ -1,6 +1,2 @@
-tree 90c32056e0d071794802fbc93cbe53008741a3c2
-parent 10e9ac58c77bc229d8c59a5b4eb7422916453148
-author Tim Clem <timothy.clem@gmail.com> 1315690021 -0700
-committer Tim Clem <timothy.clem@gmail.com> 1315690021 -0700
-
-Add a readme
+test A file
+test B file
