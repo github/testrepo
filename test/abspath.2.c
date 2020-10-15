@@ -1,6 +1,6 @@
 #include "cache.h"
 
-
+/* Test 1 */
 /* We allow "recursive" symbolic links. Only within reason, though. */
 #define MAXDEPTH 5
 #define MAXDEPTH 5

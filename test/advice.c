@@ -6,7 +6,7 @@ int advice_commit_before_merge = 1;
 int advice_resolve_conflict = 1;
 int advice_implicit_identity = 1;
 int advice_detached_head = 1;
-
+///////////////////////////////////////////////////////////
 static struct {
 	const char *name;
 	int *preference;
